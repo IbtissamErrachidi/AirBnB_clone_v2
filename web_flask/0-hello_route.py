@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """A Flask web application with its route ('/'):
-    display “Hello HBNB!"""
+    display “Hello HBNB!
+   => Current file: 0-hello_route.py"""
 
 from flask import Flask
 
